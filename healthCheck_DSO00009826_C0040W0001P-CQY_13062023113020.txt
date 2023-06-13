@@ -1,0 +1,794 @@
+
+
+Hostname         : c0040w0001p-cqy
+System Boot Time : 6/10/2023, 12:30:41 AM
+OS File Location : C:
+
+
+
+System HotFix :
+Caption                                     CSName           Description      FixComments  HotFixID   InstallDate  InstalledBy          InstalledOn  Name  ServicePackInEffect  Status  
+https://support.microsoft.com/help/5026363  C0040W0001P-CQY  Security Update               KB5026363               NT AUTHORITY\SYSTEM  5/21/2023                                       
+https://support.microsoft.com/help/5023788  C0040W0001P-CQY  Security Update               KB5023788               NT AUTHORITY\SYSTEM  3/26/2023                                       
+https://support.microsoft.com/help/5017396  C0040W0001P-CQY  Security Update               KB5017396               NT AUTHORITY\SYSTEM  9/25/2022                                       
+https://support.microsoft.com/help/5017095  C0040W0001P-CQY  Security Update               KB5017095               NT AUTHORITY\SYSTEM  8/21/2022                                       
+https://support.microsoft.com/help/5016058  C0040W0001P-CQY  Security Update               KB5016058               NT AUTHORITY\SYSTEM  7/24/2022                                       
+https://support.microsoft.com/help/5014026  C0040W0001P-CQY  Security Update               KB5014026               NT AUTHORITY\SYSTEM  6/26/2022                                       
+https://support.microsoft.com/help/5012170  C0040W0001P-CQY  Security Update               KB5012170               NT AUTHORITY\SYSTEM  8/21/2022                                       
+https://support.microsoft.com/help/5011570  C0040W0001P-CQY  Security Update               KB5011570               NT AUTHORITY\SYSTEM  3/13/2022                                       
+https://support.microsoft.com/help/5005698  C0040W0001P-CQY  Security Update               KB5005698               NT AUTHORITY\SYSTEM  9/26/2021                                       
+
+
+CPU Allocated :
+2
+CPU Usage(%) :
+38 % 
+Memory Allocated :
+8 GB 
+Memory Usage :
+51.93 % 
+
+
+CPU Load
+*************************************************************************************
+
+Handles NPM(K)  PM(K)  WS(K) CPU(s)    SI   Id ProcessName                 Prod
+                                                                           uct 
+------- ------  -----  ----- ------    --   -- -----------                 ----
+    139     15  10476  20836 68,247.98  0 6424 cqwserv                         
+   1162     60 232712 339776 3,768.86   0 1148 SentinelAgent               Sent
+                                                                           inel
+                                                                            Age
+                                                                           nt  
+    474     41  43876  60672 3,348.39   0 2332 ir_agent                    Insi
+                                                                           ght 
+                                                                           Agen
+                                                                           t   
+   2649      0    540  19068 1,943.55   0    4 System                          
+    302     78  27912  43272 810.44     0 2028 PatrolAgent                 PATR
+                                                                           OL  
+    479     23  21108  38312 781.92     0 3988 WmiPrvSE                    Micr
+                                                                           osof
+                                                                           t Wi
+                                                                           ndow
+                                                                           s Op
+                                                                           erat
+                                                                           ing 
+                                                                           Syst
+                                                                           em  
+    386     40  61392  81700 741.77     0 2400 ir_agent                    Insi
+                                                                           ght 
+                                                                           Agen
+                                                                           t   
+    175     16  51984  30200 701.84     0 7780 vcq                             
+   1785     55  43660  76844 691.94     0 1100 svchost                     Micr
+                                                                           osof
+                                                                           t Wi
+                                                                           ndow
+                                                                           s Op
+                                                                           erat
+                                                                           ing 
+                                                                           Syst
+                                                                           em  
+    175     16  52240  30584 577.77     0 5952 vcq                             
+    899     44  69664  46072 533.47     0 1244 WaAppAgent                  Micr
+                                                                           osof
+                                                                           t Co
+                                                                           ReXT
+    892     40  49068  70588 513.38     0 2264 WindowsAzureGuestAgent          
+   1753     36  19048  35612 487.86     0  672 lsass                           
+    468     22  20004  33452 306.95     0 5032 psx_server.xpc              PATR
+                                                                           OL  
+                                                                           for 
+                                                                           Micr
+                                                                           osof
+                                                                           t Wi
+                                                                           ndow
+                                                                           s Se
+                                                                           rver
+                                                                           s   
+    783     41  16824  36796 270.78     0  612 svchost                     Micr
+                                                                           osof
+                                                                           t Wi
+                                                                           ndow
+                                                                           s Op
+                                                                           erat
+                                                                           ing 
+                                                                           Syst
+                                                                           em  
+    413     12   6004  13376 231.39     0  656 services                        
+    207     22  11408  20516 230.47     0 2364 qdd                             
+    175     16  48004  25888 193.16     0 5356 vcq                             
+    617     22  21992  35148 172.78     0  376 svchost                     Micr
+                                                                           osof
+                                                                           t Wi
+                                                                           ndow
+                                                                           s Op
+                                                                           erat
+                                                                           ing 
+                                                                           Syst
+                                                                           em  
+     66     19 103464  25684 171.95     0 3468 SentinelStaticEngineScanner Sent
+                                                                           inel
+                                                                            Age
+                                                                           nt  
+
+
+
+
+System Errors
+*************************************************************************************
+
+ Index Time         EntryType Source InstanceID Message                        
+ ----- ----         --------- ------ ---------- -------                        
+583010 Jun 13 01:22 Error     DCOM        10016 The description for Event ID   
+                                                '10016' in Source 'DCOM'       
+                                                cannot be found.  The local    
+                                                computer may not have the      
+                                                necessary registry information 
+                                                or message DLL files to        
+                                                display the message, or you    
+                                                may not have permission to     
+                                                access them.  The following    
+                                                information is part of the     
+                                                event:'application-specific',  
+                                                'Local', 'Activation', '{D63B10
+                                                C5-BB46-4990-A94F-E40B9D520160}
+                                                ', '{9CA88EE3-ACB7-47C8-AFC4-AB
+                                                702511C276}', 'CLARIOS',       
+                                                'jtangch', 'S-1-5-21-3161437696
+                                                -2133658422-281741985-36299',  
+                                                'LocalHost (Using LRPC)',      
+                                                'Unavailable', 'Unavailable'   
+583009 Jun 13 01:22 Error     DCOM        10016 The description for Event ID   
+                                                '10016' in Source 'DCOM'       
+                                                cannot be found.  The local    
+                                                computer may not have the      
+                                                necessary registry information 
+                                                or message DLL files to        
+                                                display the message, or you    
+                                                may not have permission to     
+                                                access them.  The following    
+                                                information is part of the     
+                                                event:'application-specific',  
+                                                'Local', 'Activation', '{D63B10
+                                                C5-BB46-4990-A94F-E40B9D520160}
+                                                ', '{9CA88EE3-ACB7-47C8-AFC4-AB
+                                                702511C276}', 'CLARIOS',       
+                                                'jtangch', 'S-1-5-21-3161437696
+                                                -2133658422-281741985-36299',  
+                                                'LocalHost (Using LRPC)',      
+                                                'Unavailable', 'Unavailable'   
+583005 Jun 13 01:14 Error     DCOM        10016 The description for Event ID   
+                                                '10016' in Source 'DCOM'       
+                                                cannot be found.  The local    
+                                                computer may not have the      
+                                                necessary registry information 
+                                                or message DLL files to        
+                                                display the message, or you    
+                                                may not have permission to     
+                                                access them.  The following    
+                                                information is part of the     
+                                                event:'application-specific',  
+                                                'Local', 'Activation', '{D63B10
+                                                C5-BB46-4990-A94F-E40B9D520160}
+                                                ', '{9CA88EE3-ACB7-47C8-AFC4-AB
+                                                702511C276}', 'CLARIOS',       
+                                                'jcaldea1', 'S-1-5-21-316143769
+                                                6-2133658422-281741985-25379', 
+                                                'LocalHost (Using LRPC)',      
+                                                'Unavailable', 'Unavailable'   
+583004 Jun 13 01:12 Error     DCOM        10016 The description for Event ID   
+                                                '10016' in Source 'DCOM'       
+                                                cannot be found.  The local    
+                                                computer may not have the      
+                                                necessary registry information 
+                                                or message DLL files to        
+                                                display the message, or you    
+                                                may not have permission to     
+                                                access them.  The following    
+                                                information is part of the     
+                                                event:'application-specific',  
+                                                'Local', 'Activation', '{D63B10
+                                                C5-BB46-4990-A94F-E40B9D520160}
+                                                ', '{9CA88EE3-ACB7-47C8-AFC4-AB
+                                                702511C276}', 'CLARIOS',       
+                                                'jcaldea1', 'S-1-5-21-316143769
+                                                6-2133658422-281741985-25379', 
+                                                'LocalHost (Using LRPC)',      
+                                                'Unavailable', 'Unavailable'   
+583003 Jun 13 01:11 Error     DCOM        10016 The description for Event ID   
+                                                '10016' in Source 'DCOM'       
+                                                cannot be found.  The local    
+                                                computer may not have the      
+                                                necessary registry information 
+                                                or message DLL files to        
+                                                display the message, or you    
+                                                may not have permission to     
+                                                access them.  The following    
+                                                information is part of the     
+                                                event:'application-specific',  
+                                                'Local', 'Activation', '{D63B10
+                                                C5-BB46-4990-A94F-E40B9D520160}
+                                                ', '{9CA88EE3-ACB7-47C8-AFC4-AB
+                                                702511C276}', 'CLARIOS',       
+                                                'jadamek', 'S-1-5-21-3161437696
+                                                -2133658422-281741985-40478',  
+                                                'LocalHost (Using LRPC)',      
+                                                'Unavailable', 'Unavailable'   
+583000 Jun 13 01:10 Error     DCOM        10016 The description for Event ID   
+                                                '10016' in Source 'DCOM'       
+                                                cannot be found.  The local    
+                                                computer may not have the      
+                                                necessary registry information 
+                                                or message DLL files to        
+                                                display the message, or you    
+                                                may not have permission to     
+                                                access them.  The following    
+                                                information is part of the     
+                                                event:'application-specific',  
+                                                'Local', 'Activation', '{D63B10
+                                                C5-BB46-4990-A94F-E40B9D520160}
+                                                ', '{9CA88EE3-ACB7-47C8-AFC4-AB
+                                                702511C276}', 'CLARIOS',       
+                                                'jcaldea1', 'S-1-5-21-316143769
+                                                6-2133658422-281741985-25379', 
+                                                'LocalHost (Using LRPC)',      
+                                                'Unavailable', 'Unavailable'   
+582999 Jun 13 01:10 Error     DCOM        10016 The description for Event ID   
+                                                '10016' in Source 'DCOM'       
+                                                cannot be found.  The local    
+                                                computer may not have the      
+                                                necessary registry information 
+                                                or message DLL files to        
+                                                display the message, or you    
+                                                may not have permission to     
+                                                access them.  The following    
+                                                information is part of the     
+                                                event:'application-specific',  
+                                                'Local', 'Activation', '{D63B10
+                                                C5-BB46-4990-A94F-E40B9D520160}
+                                                ', '{9CA88EE3-ACB7-47C8-AFC4-AB
+                                                702511C276}', 'CLARIOS',       
+                                                'jcaldea1', 'S-1-5-21-316143769
+                                                6-2133658422-281741985-25379', 
+                                                'LocalHost (Using LRPC)',      
+                                                'Unavailable', 'Unavailable'   
+582959 Jun 12 23:54 Error     DCOM        10016 The description for Event ID   
+                                                '10016' in Source 'DCOM'       
+                                                cannot be found.  The local    
+                                                computer may not have the      
+                                                necessary registry information 
+                                                or message DLL files to        
+                                                display the message, or you    
+                                                may not have permission to     
+                                                access them.  The following    
+                                                information is part of the     
+                                                event:'application-specific',  
+                                                'Local', 'Activation', '{D63B10
+                                                C5-BB46-4990-A94F-E40B9D520160}
+                                                ', '{9CA88EE3-ACB7-47C8-AFC4-AB
+                                                702511C276}', 'CLARIOS',       
+                                                'ap_svc_dsolclsa', 'S-1-5-21-31
+                                                61437696-2133658422-281741985-2
+                                                0113', 'LocalHost (Using       
+                                                LRPC)', 'Unavailable',         
+                                                'Unavailable'                  
+582956 Jun 12 23:54 Error     DCOM        10016 The description for Event ID   
+                                                '10016' in Source 'DCOM'       
+                                                cannot be found.  The local    
+                                                computer may not have the      
+                                                necessary registry information 
+                                                or message DLL files to        
+                                                display the message, or you    
+                                                may not have permission to     
+                                                access them.  The following    
+                                                information is part of the     
+                                                event:'application-specific',  
+                                                'Local', 'Activation', '{D63B10
+                                                C5-BB46-4990-A94F-E40B9D520160}
+                                                ', '{9CA88EE3-ACB7-47C8-AFC4-AB
+                                                702511C276}', 'CLARIOS',       
+                                                'ap_svc_dsolclsa', 'S-1-5-21-31
+                                                61437696-2133658422-281741985-2
+                                                0113', 'LocalHost (Using       
+                                                LRPC)', 'Unavailable',         
+                                                'Unavailable'                  
+582955 Jun 12 23:54 Error     DCOM        10016 The description for Event ID   
+                                                '10016' in Source 'DCOM'       
+                                                cannot be found.  The local    
+                                                computer may not have the      
+                                                necessary registry information 
+                                                or message DLL files to        
+                                                display the message, or you    
+                                                may not have permission to     
+                                                access them.  The following    
+                                                information is part of the     
+                                                event:'application-specific',  
+                                                'Local', 'Activation', '{D63B10
+                                                C5-BB46-4990-A94F-E40B9D520160}
+                                                ', '{9CA88EE3-ACB7-47C8-AFC4-AB
+                                                702511C276}', 'CLARIOS',       
+                                                'ap_svc_dsolclsa', 'S-1-5-21-31
+                                                61437696-2133658422-281741985-2
+                                                0113', 'LocalHost (Using       
+                                                LRPC)', 'Unavailable',         
+                                                'Unavailable'                  
+
+
+
+
+VSS Writers
+*************************************************************************************
+Writer name: 'Task Scheduler Writer'
+   State: [1] Stable
+   Last error: No error
+Writer name: 'VSS Metadata Store Writer'
+   State: [1] Stable
+   Last error: No error
+Writer name: 'Performance Counters Writer'
+   State: [1] Stable
+   Last error: No error
+Writer name: 'System Writer'
+   State: [1] Stable
+   Last error: No error
+Writer name: 'Shadow Copy Optimization Writer'
+   State: [1] Stable
+   Last error: No error
+Writer name: 'ASR Writer'
+   State: [1] Stable
+   Last error: No error
+Writer name: 'WMI Writer'
+   State: [1] Stable
+   Last error: No error
+Writer name: 'Sentinel Agent DFI Research Data VSS Writer'
+   State: [1] Stable
+   Last error: No error
+Writer name: 'IIS Config Writer'
+   State: [1] Stable
+   Last error: No error
+Writer name: 'Sentinel Agent Database VSS Writer'
+   State: [1] Stable
+   Last error: No error
+Writer name: 'COM+ REGDB Writer'
+   State: [1] Stable
+   Last error: No error
+Writer name: 'Registry Writer'
+   State: [1] Stable
+   Last error: No error
+Writer name: 'Sentinel Agent Log VSS Writer'
+   State: [1] Stable
+   Last error: No error
+Writer name: 'Sentinel Agent Research Data VSS Writer'
+   State: [1] Stable
+   Last error: No error
+
+
+Services
+*************************************************************************************
+
+DisplayName                                                      ServiceName   
+-----------                                                      -----------   
+Smart Card Device Enumeration Service                            ScDeviceEnum  
+Smart Card                                                       SCardSvr      
+Secondary Logon                                                  seclogon      
+Smart Card Removal Policy                                        SCPolicySvc   
+Special Administration Console Helper                            sacsvr        
+Radio Management Service                                         RmSvc         
+Remote Registry                                                  RemoteRegistry
+Resultant Set of Policy Provider                                 RSoPProv      
+Remote Procedure Call (RPC) Locator                              RpcLocator    
+Sensor Data Service                                              SensorDataServ
+                                                                 ice           
+Software Protection                                              sppsvc        
+Print Spooler                                                    Spooler       
+Windows Image Acquisition (WIA)                                  stisvc        
+Secure Socket Tunneling Protocol Service                         SstpSvc       
+SNMP Trap                                                        SNMPTRAP      
+Sensor Monitoring Service                                        SensrSvc      
+Sensor Service                                                   SensorService 
+Internet Connection Sharing (ICS)                                SharedAccess  
+SentinelHelperService                                            SentinelHelper
+                                                                 Service       
+Net.Tcp Port Sharing Service                                     NetTcpPortShar
+                                                                 ing           
+Network Setup Service                                            NetSetupSvc   
+Microsoft Passport                                               NgcSvc        
+Microsoft Passport Container                                     NgcCtnrSvc    
+Network Connections                                              Netman        
+Microsoft Edge Elevation Service (MicrosoftEdgeElevationService) MicrosoftEdgeE
+                                                                 levationServic
+                                                                 e             
+Downloaded Maps Manager                                          MapsBroker    
+Network Connectivity Assistant                                   NcaSvc        
+Microsoft iSCSI Initiator Service                                MSiSCSI       
+Performance Counter DLL Host                                     PerfHost      
+Remote Access Auto Connection Manager                            RasAuto       
+Quality Windows Audio Video Experience                           QWAVE         
+Routing and Remote Access                                        RemoteAccess  
+Remote Access Connection Manager                                 RasMan        
+Puppet PXP Agent                                                 pxp-agent     
+Contact Data_1803edff                                            PimIndexMainte
+                                                                 nanceSvc_1803e
+                                                                 dff           
+Phone Service                                                    PhoneSvc      
+Xbox Live Game Save                                              XblGameSave   
+Contact Data_1cb10bdc                                            PimIndexMainte
+                                                                 nanceSvc_1cb10
+                                                                 bdc           
+Windows Encryption Provider Host Service                         WEPHOSTSVC    
+Windows Event Collector                                          Wecsvc        
+Windows Error Reporting Service                                  WerSvc        
+Problem Reports and Solutions Control Panel Support              wercplsupport 
+Windows Biometric Service                                        WbioSrvc      
+VMware Snapshot Provider                                         vmvss         
+VMware Tools                                                     VMTools       
+WalletService                                                    WalletService 
+W3C Logging Service                                              w3logsvc      
+Still Image Acquisition Events                                   WiaRpc        
+Windows Search                                                   WSearch       
+Windows Push Notifications User Service_1cb10bdc                 WpnUserService
+                                                                 _1cb10bdc     
+Xbox Live Auth Manager                                           XblAuthManager
+Windows Update                                                   wuauserv      
+Windows Push Notifications User Service_1803edff                 WpnUserService
+                                                                 _1803edff     
+Microsoft Account Sign-in Assistant                              wlidsvc       
+Windows Insider Service                                          wisvc         
+Portable Device Enumerator Service                               WPDBusEnum    
+WMI Performance Adapter                                          wmiApSrv      
+User Experience Virtualization Service                           UevAgentServic
+                                                                 e             
+Auto Time Zone Updater                                           tzautoupdate  
+User Data Storage_1803edff                                       UnistoreSvc_18
+                                                                 03edff        
+Interactive Services Detection                                   UI0Detect     
+Storage Tiers Management                                         TieringEngineS
+                                                                 ervice        
+Spot Verifier                                                    svsvc         
+Storage Service                                                  StorSvc       
+Telephony                                                        TapiSrv       
+Superfetch                                                       SysMain       
+User Data Storage_1cb10bdc                                       UnistoreSvc_1c
+                                                                 b10bdc        
+Hyper-V Remote Desktop Virtualization Service                    vmicrdv       
+Hyper-V Guest Service Interface                                  vmicguestinter
+                                                                 face          
+Hyper-V Volume Shadow Copy Requestor                             vmicvss       
+Hyper-V PowerShell Direct Service                                vmicvmsession 
+Virtual Disk                                                     vds           
+User Data Access_1803edff                                        UserDataSvc_18
+                                                                 03edff        
+UPnP Device Host                                                 upnphost      
+Update Orchestrator Service for Windows Update                   UsoSvc        
+User Data Access_1cb10bdc                                        UserDataSvc_1c
+                                                                 b10bdc        
+Connected Devices Platform Service                               CDPSvc        
+Function Discovery Resource Publication                          FDResPub      
+CAInvokerService                                                 CAInvokerServi
+                                                                 ce            
+Function Discovery Provider Host                                 fdPHost       
+Encrypting File System (EFS)                                     EFS           
+Embedded Mode                                                    embeddedmode  
+Enterprise App Management Service                                EntAppSvc     
+Background Intelligent Transfer Service                          BITS          
+IaasVmProvider                                                   IaasVmProvider
+Windows Mobile Hotspot Service                                   icssvc        
+HV Host Service                                                  HvHost        
+Windows Camera Frame Server                                      FrameServer   
+Bluetooth Support Service                                        bthserv       
+Human Interface Device Service                                   hidserv       
+DataCollectionPublishingService                                  DcpSvc        
+Microsoft (R) Diagnostics Hub Standard Collector Service         diagnosticshub
+                                                                 .standardcolle
+                                                                 ctor.service  
+Offline Files                                                    CscService    
+DevQuery Background Discovery Broker                             DevQueryBroker
+Device Association Service                                       DeviceAssociat
+                                                                 ionService    
+Device Install Service                                           DeviceInstall 
+Optimize drives                                                  defragsvc     
+Extensible Authentication Protocol                               Eaphost       
+Microsoft Edge Update Service (edgeupdate)                       edgeupdate    
+Microsoft Edge Update Service (edgeupdatem)                      edgeupdatem   
+Device Setup Manager                                             DsmSvc        
+dmwappushsvc                                                     dmwappushservi
+                                                                 ce            
+Wired AutoConfig                                                 dot3svc       
+Client License Service (ClipSVC)                                 ClipSVC       
+App Readiness                                                    AppReadiness  
+Device Management Enrollment Service                             DmEnrollmentSv
+                                                                 c             
+KtmRm for Distributed Transaction Coordinator                    KtmRm         
+Microsoft App-V Client                                           AppVClient    
+KDC Proxy Server service (KPS)                                   KPSSVC        
+Application Identity                                             AppIDSvc      
+Link-Layer Topology Discovery Mapper                             lltdsvc       
+Printer Extensions and Notifications                             PrintNotify   
+AllJoyn Router Service                                           AJRouter      
+Windows License Manager Service                                  LicenseManager
+Application Layer Gateway Service                                ALG           
+AppX Deployment Service (AppXSVC)                                AppXSvc       
+Windows Audio Endpoint Builder                                   AudioEndpointB
+                                                                 uilder        
+ActiveX Installer (AxInstSV)                                     AxInstSV      
+Application Management                                           AppMgmt       
+Windows Audio                                                    Audiosrv      
+Windows Process Activation Service                               WAS           
+Cryptographic Services                                           CryptSvc      
+Application Host Helper Service                                  AppHostSvc    
+Azure Network Watcher Agent                                      AzureNetworkWa
+                                                                 tcherAgent    
+COM+ System Application                                          COMSysApp     
+User Manager                                                     UserManager   
+CoreMessaging                                                    CoreMessagingR
+                                                                 egistrar      
+CQ Print Service                                                 CQPRINT       
+Automox Agent                                                    amagent       
+Remote Desktop Services UserMode Port Redirector                 UmRdpService  
+Application Connection Service                                   ACS           
+Windows Modules Installer                                        TrustedInstall
+                                                                 er            
+Distributed Link Tracking Client                                 TrkWks        
+Diagnostic Service Host                                          WdiServiceHost
+Time Broker                                                      TimeBrokerSvc 
+Windows Connection Manager                                       Wcmsvc        
+DCOM Server Process Launcher                                     DcomLaunch    
+Diagnostic System Host                                           WdiSystemHost 
+Windows Driver Foundation - User-mode Driver Framework           wudfsvc       
+User Access Logging Service                                      UALSVC        
+Windows Management Instrumentation                               Winmgmt       
+WinHTTP Web Proxy Auto-Discovery Service                         WinHttpAutoPro
+                                                                 xySvc         
+Hyper-V Time Synchronization Service                             vmictimesync  
+CDPUserSvc_1803edff                                              CDPUserSvc_180
+                                                                 3edff         
+Hyper-V Guest Shutdown Service                                   vmicshutdown  
+Background Tasks Infrastructure Service                          BrokerInfrastr
+                                                                 ucture        
+Volume Shadow Copy                                               VSS           
+Windows Time                                                     W32Time       
+Windows Azure Network Agent                                      WindowsAzureNe
+                                                                 tAgentSvc     
+Windows Azure Guest Agent                                        WindowsAzureGu
+                                                                 estAgent      
+Hyper-V Data Exchange Service                                    vmickvpexchang
+                                                                 e             
+VMware Alias Manager and Ticket Service                          VGAuthService 
+Base Filtering Engine                                            BFE           
+Certificate Propagation                                          CertPropSvc   
+Credential Manager                                               VaultSvc      
+Windows Push Notifications System Service                        WpnService    
+Hyper-V Heartbeat Service                                        vmicheartbeat 
+Windows Remote Management (WS-Management)                        WinRM         
+World Wide Web Publishing Service                                W3SVC         
+Application Information                                          Appinfo       
+CDPUserSvc_1cb10bdc                                              CDPUserSvc_1cb
+                                                                 10bdc         
+Tile Data model server                                           tiledatamodels
+                                                                 vc            
+BMC Patrol Agent                                                 PatrolAgent   
+Program Compatibility Assistant Service                          PcaSvc        
+Rapid7 Insight Agent                                             ir_agent      
+Sync Host_1cb10bdc                                               OneSyncSvc_1cb
+                                                                 10bdc         
+Network Store Interface Service                                  nsi           
+nxlog                                                            nxlog         
+Sync Host_1803edff                                               OneSyncSvc_180
+                                                                 3edff         
+IP Helper                                                        iphlpsvc      
+Power                                                            Power         
+User Profile Service                                             ProfSvc       
+Puppet Agent                                                     puppet        
+IPsec Policy Agent                                               PolicyAgent   
+IKE and AuthIP IPsec Keying Modules                              IKEEXT        
+Performance Logs & Alerts                                        pla           
+Plug and Play                                                    PlugPlay      
+Distributed Transaction Coordinator                              MSDTC         
+Windows Installer                                                msiserver     
+Geolocation Service                                              lfsvc         
+Windows Firewall                                                 MpsSvc        
+Local Session Manager                                            LSM           
+TCP/IP NetBIOS Helper                                            lmhosts       
+Flexera Inventory Manager security service                       mgssecsvc     
+Network Connection Broker                                        NcbService    
+Server                                                           LanmanServer  
+CNG Key Isolation                                                KeyIso        
+Network Location Awareness                                       NlaSvc        
+Network List Service                                             netprofm      
+Flexera Inventory Manager managed device v14.00.52               ndinit        
+Netlogon                                                         Netlogon      
+Workstation                                                      LanmanWorkstat
+                                                                 ion           
+DNS Client                                                       Dnscache      
+SSDP Discovery                                                   SSDPSRV       
+SentinelOne Agent Log Processing Service                         LogProcessorSe
+                                                                 rvice         
+Microsoft Storage Spaces SMP                                     smphost       
+Remote Desktop Configuration                                     SessionEnv    
+Diagnostic Policy Service                                        DPS           
+Shell Hardware Detection                                         ShellHWDetecti
+                                                                 on            
+State Repository Service                                         StateRepositor
+                                                                 y             
+Touch Keyboard and Handwriting Panel Service                     TabletInputSer
+                                                                 vice          
+Remote Desktop Services                                          TermService   
+Themes                                                           Themes        
+System Events Broker                                             SystemEventsBr
+                                                                 oker          
+Connected User Experiences and Telemetry                         DiagTrack     
+DHCP Client                                                      Dhcp          
+Microsoft Software Shadow Copy Provider                          swprv         
+Windows Font Cache Service                                       FontCache     
+RPC Endpoint Mapper                                              RpcEptMapper  
+Remote Procedure Call (RPC)                                      RpcSs         
+RdAgent                                                          RdAgent       
+QDirector                                                        QDirector     
+Group Policy Client                                              gpsvc         
+Guest Configuration Service                                      GCService     
+COM+ Event System                                                EventSystem   
+Data Sharing Service                                             DsSvc         
+Sentinel Agent                                                   SentinelAgent 
+SentinelOne Static Service                                       SentinelStatic
+                                                                 Engine        
+System Event Notification Service                                SENS          
+Windows Event Log                                                EventLog      
+Security Accounts Manager                                        SamSs         
+Task Scheduler                                                   Schedule      
+
+
+
+
+Page File Details
+*************************************************************************************
+AllocatedBaseSize=8704
+CurrentUsage=280
+Description=D:\pagefile.sys
+InstallDate=20230326041108.080250-360
+Name=D:\pagefile.sys
+PeakUsage=366
+Status=
+TempPageFile=FALSE
+
+
+Memory Load
+*************************************************************************************
+
+Handles NPM(K)  PM(K)  WS(K) CPU(s)   SI   Id ProcessName            Product   
+------- ------  -----  ----- ------   --   -- -----------            -------   
+   1162     60 232712 339776 3,768.86  0 1148 SentinelAgent          Sentinel  
+                                                                     Agent     
+    225     26 126812 134528 13.08     0  788 ruby                   Ruby inter
+                                                                     preter    
+                                                                     2.5.3p105 
+                                                                     [x64-mingw
+                                                                     32]       
+    882     32  88424 109112 4.97      0 8396 powershell             Microsoft 
+                                                                     Windows   
+                                                                     Operating 
+                                                                     System    
+   1522     56  29024  85836 26.48     3 7860 explorer               Microsoft 
+                                                                     Windows   
+                                                                     Operating 
+                                                                     System    
+    386     40  61392  81700 741.77    0 2400 ir_agent               Insight   
+                                                                     Agent     
+   1474     56  26936  81468 25.19     2 2384 explorer               Microsoft 
+                                                                     Windows   
+                                                                     Operating 
+                                                                     System    
+   1785     55  43660  76844 691.94    0 1100 svchost                Microsoft 
+                                                                     Windows   
+                                                                     Operating 
+                                                                     System    
+    892     40  49068  70588 513.38    0 2264 WindowsAzureGuestAgent           
+    675     35  20060  65240 1.84      3 8196 SearchUI               Microsoft 
+                                                                     Windows   
+                                                                     Operating 
+                                                                     System    
+    734     32  23332  61736 2.94      3 8488 ShellExperienceHost    Microsoft 
+                                                                     Windows   
+                                                                     Operating 
+                                                                     System    
+    474     41  43876  60672 3,348.39  0 2332 ir_agent               Insight   
+                                                                     Agent     
+    716     32  20976  57232 0.64      2 6388 ShellExperienceHost    Microsoft 
+                                                                     Windows   
+                                                                     Operating 
+                                                                     System    
+    584     31  15616  53624 0.39      2 7224 SearchUI               Microsoft 
+                                                                     Windows   
+                                                                     Operating 
+                                                                     System    
+    466     26  15684  49868 2.33      3 9672 LogonUI                Microsoft 
+                                                                     Windows   
+                                                                     Operating 
+                                                                     System    
+    485     26  15540  49192 4.38      2 8052 LogonUI                Microsoft 
+                                                                     Windows   
+                                                                     Operating 
+                                                                     System    
+    350     31  17160  47172 2.39      3 2056 dwm                    Microsoft 
+                                                                     Windows   
+                                                                     Operating 
+                                                                     System    
+    360     32  18740  47092 2.47      2 5504 dwm                    Microsoft 
+                                                                     Windows   
+                                                                     Operating 
+                                                                     System    
+    899     44  69664  46072 533.47    0 1244 WaAppAgent             Microsoft 
+                                                                     CoReXT    
+    383     23  13304  45092 64.89     1  900 LogonUI                Microsoft 
+                                                                     Windows   
+                                                                     Operating 
+                                                                     System    
+    474     28  31356  45088 1.30      0 7396 CustomScriptHandler              
+
+
+
+
+Network Interface Errors
+*************************************************************************************
+MIB-II IP Statistics
+------------------------------------------------------
+Forwarding is:                      Disabled
+Default TTL:                        128
+In Receives:                        174082438
+In Header Errors:                   0
+In Address Errors:                  3
+Datagrams Forwarded:                0
+In Unknown Protocol:                0
+In Discarded:                       484
+In Delivered:                       174106497
+Out Requests:                       67267714
+Routing Discards:                   0
+Out Discards:                       0
+Out No Routes:                      0
+Reassembly Timeout:                 60
+Reassembly Required:                0
+Reassembled Ok:                     0
+Reassembly Failures:                0
+Fragments Ok:                       0
+Fragments Failed:                   0
+Fragments Created:                  0
+
+
+
+
+Drive utilization
+*************************************************************************************
+
+
+DeviceID     : C:
+DeviceType   : 3
+ProviderName : 
+FreeSpace    : 45.85GB
+Size         : 99.45GB
+VolumeName   : 
+
+DeviceID     : D:
+DeviceType   : 3
+ProviderName : 
+FreeSpace    : 2.95GB
+Size         : 16GB
+VolumeName   : Temporary Storage
+
+DeviceID     : E:
+DeviceType   : 3
+ProviderName : 
+FreeSpace    : 18.26GB
+Size         : 74.87GB
+VolumeName   : App
+
+DeviceID     : F:
+DeviceType   : 3
+ProviderName : 
+FreeSpace    : 57.51GB
+Size         : 127.87GB
+VolumeName   : Backups
+
+
+
+
+
